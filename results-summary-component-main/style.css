@@ -1,0 +1,149 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.mom{
+    display: flex;
+
+   border-radius: 40px;
+    box-shadow:  10px 10px 15px rgba(78, 33, 202, 0.171);
+    width: 600px;
+    
+}
+
+
+.start{
+  border: 1px solid hsla(256, 72%, 46%, 1);
+  border-radius: 50px;
+  background-color: hsla(256, 72%, 46%, 1);
+  padding: 30px;
+  width: 300px;
+  
+  
+
+  
+}
+
+.end{
+    order: 1px solid rgb(255, 255, 255);
+  border-radius: 50px;
+  background-color: rgb(255, 255, 255);
+  padding: 30px;
+
+
+}
+
+.round{
+    border: 1px solid hsl hsl(0, 0%, 0%);
+    border-radius: 100%;
+    width: 150px;
+    background-color: hsl(252, 100%, 67%);
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: auto;
+}
+
+.result{
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
+}
+
+.rounder{
+    color: aliceblue;
+}
+
+.ofround{
+    color: gray;
+}
+
+.fr{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    color: aliceblue;
+}
+
+.text{
+    margin: auto;
+    color: aliceblue;
+   
+}
+
+
+.redd{
+    display: flex;
+    justify-content: start;
+    border: 1px solid hsl(0, 100%, 89%);
+    border-radius: 10px;
+    background-color: hsl(0, 100%, 90%);
+    width: 300px;
+
+}
+
+.yelloww{
+    display: flex;
+    justify-content: start;
+    border: 1px solid hsl(39, 100%, 89%);
+    background-color: hsl(39, 100%, 90%);
+    border-radius: 10px;
+}
+
+.greenn{
+    display: flex;
+    justify-content: start;
+    border: 1px solid hsl(166, 100%, 86%);
+    border-radius: 10px;
+    background-color: hsl(166, 100%, 86%);
+}
+
+.purplee{
+    display: flex;
+    justify-content: start;
+    border: 1px solid hsl(233, 100%, 82%);
+    border-radius: 10px;
+    background-color: hsl(233, 100%, 82%);
+
+}
+
+button{
+    color: aliceblue;
+    background-color:hsla(256, 72%, 46%, 1);
+    border: 1px solid hsla(256, 72%, 46%, 1);
+    display: flex;
+    justify-content: center;
+    border-radius: 1000px;
+    padding: 10px;
+    margin: auto;
+}
+
+.re{
+    color: red;
+}
+
+.ge{
+    color: green;
+}
+
+.pu{
+    color: purple;
+}
+
+.ye{
+    color: yellow;
+}
+
+.omg{
+    display: flex;
+    justify-content: end;
+}
+
+
+
